@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Highlevel_Concepts/Highlevel_Concepts.iml" filepath="$PROJECT_DIR$/Highlevel_Concepts/Highlevel_Concepts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Basics/Java_Basics.iml" filepath="$PROJECT_DIR$/Java_Basics/Java_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlin_Basics.iml" filepath="$PROJECT_DIR$/Kotlin_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workspace/Workspace.iml" filepath="$PROJECT_DIR$/Workspace/Workspace.iml" />
+    </modules>
+  </component>
+</project>
